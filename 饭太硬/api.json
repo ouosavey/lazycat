@@ -17,7 +17,7 @@
             "type": 3,
             "api": "csp_AList",
             "ext": "./json/alist.json",
-            "jar": "https://raw.gitmirror.com/ouosavey/lazycat/main/道长JS/f.txt"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
         },
         {
             "key": "玩偶哥哥",
