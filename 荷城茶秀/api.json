@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/荷城茶秀/spider.jar",
+    "spider": "./spider.txt",
     "wallpaper": "http://rihou.cc:88/壁纸",
     "lives": [
         {

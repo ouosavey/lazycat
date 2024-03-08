@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/动漫频道/spider.jar",
+    "spider": "./spider.txt",
     "sites": [
         {
             "key": "AGE动漫",

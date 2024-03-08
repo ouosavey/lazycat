@@ -1,10 +1,10 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/南风/spider.jar",
+    "spider": "./spider.txt",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
             "key": "csp_DouDou",
-            "name": "🔍豆瓣┃本接口免费-🈲贩卖",
+            "name": "🔍豆瓣┃",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,

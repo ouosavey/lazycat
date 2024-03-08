@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/少儿频道/spider.jar",
+    "spider": "./spider.txt",
     "lives": [
         {
             "name": "redirect",

@@ -1,10 +1,10 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/白嫖/spider.jar",
+    "spider": "./spider.txt",
     "lives": [],
     "sites": [
         {
             "key": "douban",
-            "name": "关注公众号:影视资源站,防失联",
+            "name": "影视资源站",
             "type": 3,
             "api": "csp_DouBan",
             "quickSearch": 0,

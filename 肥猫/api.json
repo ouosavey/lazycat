@@ -1,10 +1,10 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/肥猫/spider.jar",
+    "spider": "./spider.txt",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "🐼┃公众号┃肥猫宝贝",
+            "name": "🐼┃肥猫",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -614,15 +614,6 @@
                 "ratio": 1.597
             },
             "ext": "./json/高中课堂.json"
-        },
-        {
-            "key": "push_agent",
-            "name": "关注公众号：肥猫宝贝",
-            "type": 3,
-            "api": "csp_Push",
-            "playerType": "1",
-            "searchable": 0,
-            "ext": "./txt/token.txt"
         }
     ],
     "parses": [

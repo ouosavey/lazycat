@@ -1,15 +1,23 @@
 {
-    "spider": "./spider.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+    "spider": "./spider.txt",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
             "key": "豆豆",
-            "name": "🌕公众号【神秘的哥哥们】",
+            "name": "🌕懒猫圈",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
+        },
+        {
+            "key": "AList",
+            "name": "😹懒猫圈Alist",
+            "type": 3,
+            "api": "csp_AList",
+            "ext": "./json/alist.json",
+            "jar": "https://raw.gitmirror.com/ouosavey/lazycat/main/道长JS/f.txt"
         },
         {
             "key": "玩偶哥哥",
@@ -578,15 +586,6 @@
             "name": "🛫唐人街┃飞",
             "type": 3,
             "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "fan",
-            "name": "导航 https://饭太硬.top",
-            "type": 3,
-            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1

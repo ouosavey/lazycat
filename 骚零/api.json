@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xhdwc.tk/api/img.php",
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/骚零/spider.jar",
+    "spider": "./spider.txt",
     "lives": [
         {
             "name": "白嫖",

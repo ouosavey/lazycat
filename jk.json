@@ -1,16 +1,16 @@
 { "urls": [{ "url": "./饭太硬/api.json", "name": "懒猫圈" },
 
+{ "url": "./少儿频道/api.json", "name": "漫漫频道" },
+
+{ "url": "./动漫频道/api.json", "name": "懒懒频道" }
+
 { "url": "./fty/fty.json", "name": "饭太硬" },
   
 { "url": "./小米/api.json", "name": "小米" },
 
 { "url": "./肥猫/api.json", "name": "肥猫" },
 
-{ "url": "./PG/api.json", "name": "PG" },
-
 { "url": "./香雅情XYQ/api.json", "name": "香雅情XYQ" },
-
-{ "url": "./道长JS/api.json", "name": "道长JS" },
 
 { "url": "./菜妮丝/api.json", "name": "菜妮丝" },
 
@@ -26,6 +26,7 @@
 
 { "url": "./小胡/api.json", "name": "小胡" },
 
-{ "url": "./少儿频道/api.json", "name": "少儿频道" },
+{ "url": "./PG/api.json", "name": "PG" },
 
-{ "url": "./动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "./道长JS/api.json", "name": "道长JS" }
+]}

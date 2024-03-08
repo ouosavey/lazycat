@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/小胡/spider.jar",
+    "spider": "./spider.jar",
     "wallpaper": "",
     "lives": [
         {
@@ -15,11 +15,11 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }
     ],
-    "warningText": "💖black 公众号：小胡不胡💖",
+    "warningText": "💖小胡不胡💖",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "😍 新公众号：小胡不胡",
+            "name": "😍 小胡",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/豆瓣.js"

@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/天天开心/spider.jar",
+    "spider": "./spider.txt",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "lives": [
         {
