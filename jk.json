@@ -2,7 +2,7 @@
 
 { "url": "./少儿频道/api.json", "name": "漫漫频道" },
 
-{ "url": "./动漫频道/api.json", "name": "懒懒频道" }
+{ "url": "./动漫频道/api.json", "name": "懒懒频道" },
   
 { "url": "./小米/api.json", "name": "小米" },
 
