@@ -17,7 +17,7 @@
             "type": 3,
             "api": "csp_AList",
             "ext": "./json/alist.json",
-            "jar": "https://github.com/ouosavey/lazycat/blob/main/道长JS/f.txt"
+            "jar": "/道长JS/f.txt"
         },
         {
             "key": "玩偶哥哥",
