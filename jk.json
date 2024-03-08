@@ -1,5 +1,7 @@
 { "urls": [{ "url": "./饭太硬/api.json", "name": "懒猫圈" },
 
+{ "url": "./fty/ftu.json", "name": "饭太硬" },
+  
 { "url": "./小米/api.json", "name": "小米" },
 
 { "url": "./肥猫/api.json", "name": "肥猫" },
