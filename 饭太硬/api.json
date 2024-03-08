@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/ouosavey/lazycat/raw/main/饭太硬/spider.jar",
+    "spider": "./spider.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
