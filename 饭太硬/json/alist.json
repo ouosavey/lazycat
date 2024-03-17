@@ -23,7 +23,7 @@
     },
     {
         "name" : "💻小雅",
-        "server" : "http://49.76.21.92:5678",
+        "server" : "http://27.10.46.208:5678",
         "startPage" : "/",
         "showAll" : false,
         "search" : true

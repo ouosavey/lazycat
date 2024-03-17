@@ -27,7 +27,7 @@ http://127.0.0.1:9978/file/tvboxqq/本地仓.txt
 
 ⑤：token文件不再做修改，建议直接在软件里配置阿里token即可！
 
-★20240305本地化，单线路配置地址：
+★20240315本地化，单线路配置地址：
 
 clan://localhost/tvboxqq/饭太硬/api.json
 
@@ -38,10 +38,6 @@ clan://localhost/tvboxqq/肥猫/api.json
 clan://localhost/tvboxqq/PG/api.json
 
 clan://localhost/tvboxqq/香雅情XYQ/api.json
-
-clan://localhost/tvboxqq/道长JS/api.json
-
-clan://localhost/tvboxqq/菜妮丝/api.json
 
 clan://localhost/tvboxqq/南风/api.json
 
@@ -70,12 +66,7 @@ http://肥猫.live
 PG包可在饭太硬群文件获取：
 https://t.me/TVBoxxoo
 
-道长JS包猫爪分享群：
-https://t.me/watson1028
-
 https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json
-
-https://tvbox.cainisi.cf（已失效）
 
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 

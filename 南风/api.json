@@ -1,5 +1,7 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
-    "spider": "./spider.txt",
+    "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
@@ -19,11 +21,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy55.com/"
+            "ext": "https://www.czzy77.com/"
         },
         {
             "key": "csp_AppTT",
-            "name": "💥追剧",
+            "name": "💥萌米",
             "type": 3,
             "api": "csp_AppTT",
             "playerType": 2,
@@ -31,25 +33,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-        },
-        {
-            "key": "csp_Bdys",
-            "name": "☀哔嘀",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_YQKan",
-            "name": "🌎一起看",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_NanGua",
@@ -72,15 +55,25 @@
             "changeable": 1
         },
         {
-            "key": "萌米",
-            "name": "👀萌米",
+            "key": "csp_YCyz",
+            "name": "☀原创",
             "type": 3,
-            "api": "csp_AppMao",
+            "api": "csp_YCyz",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+            "changeable": 1
+        },
+        {
+            "key": "csp_BaiPiao",
+            "name": "👻白嫖",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Jianpian",
@@ -130,7 +123,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.80yy3.com/"
         },
         {
             "key": "csp_Bttwoo",
@@ -165,6 +158,15 @@
             "name": "👒酷云七七",
             "type": 3,
             "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_YQKan",
+            "name": "🌎一起看",
+            "type": 3,
+            "api": "csp_YQKan",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -224,6 +226,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Duanju",
+            "name": "🌈短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Yj1211",
@@ -319,17 +331,6 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "Zhaozy",
-            "name": "🦊找资源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$lmok37266@bazatek.com$$$Yoursmile"
         },
         {
             "key": "push_agent",
