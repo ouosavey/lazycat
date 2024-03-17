@@ -20,7 +20,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/兔小贝.json",
-            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
+            "jar": "./jars/csp_XYQHiker_兔小贝.txt"
         },
         {
             "key": "csp_XYQHiker_兔小贝2",
@@ -31,7 +31,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/兔小贝2.json",
-            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
+            "jar": "./jars/csp_XYQHiker_兔小贝.txt"
         },
         {
             "key": "csp_XYQHiker_童趣",
@@ -42,7 +42,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/播视童趣.json",
-            "jar": "./jars/csp_XYQHiker_兔小贝.jar"
+            "jar": "./jars/csp_XYQHiker_兔小贝.txt"
         },
         {
             "key": "幼儿启蒙",
