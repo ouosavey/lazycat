@@ -14,14 +14,6 @@
             "filterable": 0
         },
         {
-            "key": "AList",
-            "name": "😹懒猫圈Alist",
-            "type": 3,
-            "api": "csp_AList",
-            "ext": "./json/alist.json",
-            "jar": "https://d.kstore.space/download/7788/jar/道长JS/f.jar"
-        },
-        {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
             "type": 3,

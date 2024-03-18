@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🎟豆瓣┃",
+            "name": "🎟豆瓣┃接口",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,

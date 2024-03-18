@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "douban",
-            "name": "影视资源",
+            "name": "白嫖",
             "type": 3,
             "api": "csp_DouBan",
             "quickSearch": 0,

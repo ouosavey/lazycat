@@ -11,7 +11,7 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
-    "warningText": "荷城茶秀完全免费，切勿付费购买！",
+    "warningText": "荷城茶秀接口完全免费，切勿付费购买！",
     "sites": [
         {
             "key": "js_豆瓣热播",
@@ -61,6 +61,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./json/运输阿里.json"
+        },
+        {
+            "key": "csp_xBPQ_白嫖",
+            "name": "🅱️白嫖影视|T追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/白嫖影视.json"
         },
         {
             "key": "csp_厂长",
