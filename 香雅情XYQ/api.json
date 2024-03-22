@@ -58,16 +58,6 @@
             "ext": "./js/百忙无果.js"
         },
         {
-            "key": "Gitcafe",
-            "name": "📀小纸条(搜索)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./txt/alitoken.txt"
-        },
-        {
             "key": "csp_Zhaozy",
             "name": "📀找资源(搜索)",
             "type": 3,
@@ -106,6 +96,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "./txt/alitoken.txt"
+        },
+        {
+            "key": "csp_XYQHiker_影搜",
+            "name": "📀影搜(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/影搜.json"
         },
         {
             "key": "csp_XYQHikerAL_玩偶哥哥",

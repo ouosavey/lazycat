@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "🐼┃┃肥猫",
+            "name": "🐼┃肥猫",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -44,6 +44,13 @@
             "playerType": "2",
             "api": "csp_Nkdy",
             "searchable": 0
+        },
+        {
+            "key": "csp_LiteApple",
+            "name": "🍎┃苹果┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_LiteApple"
         },
         {
             "key": "csp_Panda_玩偶哥哥",

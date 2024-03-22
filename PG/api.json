@@ -183,6 +183,54 @@
             }
         },
         {
+            "key": "美剧迷",
+            "name": "美剧迷|网盘",
+            "type": 3,
+            "api": "csp_Meijumi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
+        },
+        {
+            "key": "Libvio",
+            "name": "LIBVIO|网盘",
+            "type": 3,
+            "api": "csp_Libvio",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
+        },
+        {
+            "key": "Bt0",
+            "name": "不太灵|磁力",
+            "type": 3,
+            "api": "csp_Bt0",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "null$$$null$$$1"
+        },
+        {
+            "key": "Xpanpan",
+            "name": "小盘盘|网盘",
+            "type": 3,
+            "api": "csp_Xpanpan",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
             "key": "Wogg",
             "name": "玩偶哥哥|网盘",
             "type": 3,
@@ -216,30 +264,26 @@
             "ext": "./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"
         },
         {
-            "key": "Xpanpan",
-            "name": "小盘盘|网盘",
+            "key": "团长资源",
+            "name": "团长资源|网盘",
             "type": 3,
-            "api": "csp_Xpanpan",
+            "api": "csp_TZFile",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
+            "ext": "./lib/tokenm.json$$$null$$$1"
         },
         {
-            "key": "Pan99",
-            "name": "盘99|网盘",
+            "key": "Moli",
+            "name": "HDmoli|网盘",
             "type": 3,
-            "api": "csp_Pan99",
+            "api": "csp_Moli",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
         },
         {
             "key": "Hdhive",
@@ -275,61 +319,6 @@
             "ext": "./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1"
         },
         {
-            "key": "团长资源",
-            "name": "团长资源|网盘",
-            "type": 3,
-            "api": "csp_TZFile",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$1"
-        },
-        {
-            "key": "美剧迷",
-            "name": "美剧迷|网盘",
-            "type": 3,
-            "api": "csp_Meijumi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"
-        },
-        {
-            "key": "Libvio",
-            "name": "LIBVIO|网盘",
-            "type": 3,
-            "api": "csp_Libvio",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.libvio.pro$$$null"
-        },
-        {
-            "key": "Moli",
-            "name": "HDmoli|网盘",
-            "type": 3,
-            "api": "csp_Moli",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"
-        },
-        {
-            "key": "Bt0",
-            "name": "不太灵|磁力",
-            "type": 3,
-            "api": "csp_Bt0",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "null$$$null$$$1"
-        },
-        {
             "key": "Bdys_spider",
             "name": "哔滴┃磁力",
             "api": "csp_Bdys01",
@@ -340,15 +329,16 @@
             "ext": "https://www.bdys10.com/$$$null$$$1"
         },
         {
-            "key": "PanSearch",
-            "name": "PanSearch|网盘",
+            "key": "混合盘",
+            "name": "混合盘|网盘",
             "type": 3,
-            "api": "csp_PanSearch",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
+            "api": "csp_HunHePan",
             "timeout": 60,
-            "ext": "./lib/tokenm.json"
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
         },
         {
             "key": "88Pan",
@@ -361,6 +351,17 @@
                 "type": "list",
                 "ratio": 1.1
             }
+        },
+        {
+            "key": "PanSearch",
+            "name": "PanSearch|网盘",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "./lib/tokenm.json"
         },
         {
             "key": "盘友圈",
@@ -377,18 +378,6 @@
             "api": "csp_YiSo",
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$./lib/yiso.txt",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
-            }
-        },
-        {
-            "key": "混合盘",
-            "name": "混合盘|网盘",
-            "type": 3,
-            "api": "csp_HunHePan",
-            "timeout": 60,
-            "ext": "./lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -515,25 +504,15 @@
             "ext": "./lib/tokenm.json$$$1"
         },
         {
-            "key": "Yscapp",
-            "name": "影视车|App",
+            "key": "Pan99",
+            "name": "盘99|网盘",
             "type": 3,
-            "api": "csp_Yscapp",
+            "api": "csp_Pan99",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "timeout": 30,
-            "playerType": 1,
-            "ext": "1"
-        },
-        {
-            "key": "NanGua",
-            "name": "南瓜|弹幕",
-            "type": 3,
-            "api": "csp_NanGua",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "null$$$1"
+            "timeout": 60,
+            "ext": "./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"
         },
         {
             "key": "Dovx",
@@ -556,6 +535,15 @@
             "filterable": 0,
             "timeout": 30,
             "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "NanGua",
+            "name": "南瓜|弹幕",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "null$$$1"
         },
         {
             "key": "新6V",
